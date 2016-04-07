@@ -1,0 +1,152 @@
+Cracking the Coding Interview by Gayle McDowell: 6th Edition
+Chapter Notes and Highlights
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////THE INTERVIEW PROCESS//////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Performance Assessment:
+	1. Analytical Skills
+		How optimal was your solution? Did you need a lot of hints? 
+		How long did it take to reach your solutions? Did you think through tradeoffs?
+	2. Coding Skills
+		Translation from algorithms to code. Clean/Well-organized? Good Style? Potential Bugs
+	3. Technical Knowledge/CS Fundamentals
+		Strong foundation in CS and technologies?
+	4. Experience
+		Good previous technical skills? Interesting, Challenging projects?
+		Drive or Initiative?
+	5. Culture Fit/ Communication Skills
+		Did you communicate well? Do you fit in?
+
+= Companies are okay with letting good candidates go, but are deathly afraid of accepting people who aren't actually good
+= Knowledge of Data Structures/Algorithms is a good sign (hard to ask questions without them)
+= (Whiteboard)  Most interviewers are NOT okay with pseudocode, the fewer bugs the better
+
+Some Companies focus on algorithms and system design questions while others focus on knowledge-based questions.
+
+-------------------
+IT'S ALL RELATIVE |
+-------------------
+
+Interviewers assess you relative to other candidates on the same question by the same interviewer.
+How you perform against EVERYONE the interviewer has EVER asked the question to.
+
+Timeline FAQ TLDR;
+	1. If your recruiter has not gotten back to you 3-5 days after your interview
+		- Politely check in
+		- Most recruiters are busy, no response != rejection
+	2. If you get rejected you have to usually wait 6 months to 1 year
+		- Previous rejection does not affect your current status 
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////BEHIND THE SCENES///////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+-------------
+| MICROSOFT |
+-------------
+
+Looking for: Passion about technology
+	- Geeks
+	- Be nice to your recruiter, biggest advocate (They fight for you to be hired or not!)
+	
+	
+	DEFINITELY PREPARE:
+		Why do you want to work for Microsoft?	
+			- Your answer should show your passion for technology. 
+
+
+
+GOOD SIGN**
+Speaking with the hiring manager after your team interviews (called 'as app')
+
+HIRING MANAGER = GREAT SIGN
+
+
+--------------
+|   GOOGLE   |
+--------------
+
+Looking for: Scalibility and Analytical/Algorithimic Skills
+        - First Phone Screen WILL be technical
+        - Feedback is broken down into four categories (given an overall score of 1.0 to 4.0)
+		1. Analytical Ability
+		2. Coding Experience
+		3. Experience
+		4. Communication
+	- HC looking for Enthusiatic Endorser* (3.6, 3.1,3.1,2.6) better than all 3.1
+	- Phone Screen Performance usually not strong factor into final decision
+
+
+        DEFINITELY PREPARE:
+		How to design a scalable system. Strong focus on analytical skills
+
+
+WHAT'S DIFFERENT**
+Interviewers don't make the hiring decision. Hiring Committee recommends a decision which is then reviewed by Google Executives
+
+
+
+-------------
+|   APPLE   |
+-------------
+
+Looking for: Excellent technical skills and passion for position and company
+        - Be familiar with the system
+	- Interviewers compare notes at the end of the day and determine whether you're still viable
+		If so, then you interview with the director and VP of the team 
+		If not, expect to be escorted outside of the building		
+
+        DEFINITELY PREPARE:
+		Research team products. What do you like? What would you improve? 
+		Offering specific recommendations shows passion
+
+
+
+UNIQUE**
+Two on One interviews are common. NBD they're the same as one-on-one interviews
+Apple employees are HUGE Apple fans. Show this same passion in your interview!
+
+
+
+--------------
+|  FACEBOOK  |
+--------------
+
+Looking for: Scalable Solutions	
+	- Homework assignments which include a mix of coding and algorithms
+		Pay attention to codign style
+	- Interviewers get roles to ensure a holistic view of candidate
+		1. Jedi (Behavioral)
+			Passion and Interest
+				- What are you excited about?
+				- How do you tackle challenges?
+				- Do you fit with the culture and its values?
+			Be prepared to talk about your interests in Facebook!
+		2. Ninja (Coding and ALgorithms)
+			Coding and Algorithms
+				- Standard coding and algorithms questions
+		3. Pirate (Design/Architecture)
+			System Design and Front End
+				- Back End expect system design questions
+				- Front End design questions
+				- Openly discuss different solutions and their tradeoffs 
+
+	- Candidates will typically get 2 ninja interviews and one jedi interview.
+		Experienced candidates will also usually get a pirate interview
+
+        DEFINITELY PREPARE:
+		Developers with an entrepreneurial spirit	
+	
+
+UNIQUE**
+Facebook interviews for a general team not a specific team. 
+If hired, you go through a 6 week bootcamp which gets you caught up in the code base. 
+	- You get mentorship from senior devs, learn best practices, and have project choice flexibility
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////SPECIAL SITUATIONS//////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
